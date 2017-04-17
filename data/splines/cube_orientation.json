@@ -1,0 +1,87 @@
+[
+  {
+    "t": 90.5,
+    "interpolation": { "step": 1 },
+    "value": [1, 0, 0, 0]
+  },
+  {
+    "t": 91.5,
+    "interpolation": "cosine",
+    "value": [1, 0, 0, 0]
+  },
+  {
+    "t": 92,
+    "interpolation": { "step": 1 },
+    "value": [0, 1, 1, 0]
+  },
+  {
+    "t": 93,
+    "interpolation": "cosine",
+    "value": [0, 1, 1, 0]
+  },
+  {
+    "t": 93.5,
+    "interpolation": { "step": 1 },
+    "value": [0, 0, 1, 1]
+  },
+  {
+    "t": 94.5,
+    "interpolation": "cosine",
+    "value": [0, 0, 1, 1]
+  },
+  {
+    "t": 95,
+    "interpolation": { "step": 1 },
+    "value": [-1, 1, 0, 0]
+  },
+  {
+    "t": 96,
+    "interpolation": "cosine",
+    "value": [-1, 1, 0, 0]
+  },
+  {
+    "t": 96.5,
+    "interpolation": { "step": 1 },
+    "value": [1, 0, 1, 0]
+  },
+  {
+    "t": 97.5,
+    "interpolation": "cosine",
+    "value": [1, 0, 1, 0]
+  },
+  {
+    "t": 98,
+    "interpolation": { "step": 1 },
+    "value": [0, 1, 0, 1]
+  },
+  {
+    "t": 99,
+    "interpolation": "cosine",
+    "value": [0, 1, 0, 1]
+  },
+  {
+    "t": 99.5,
+    "interpolation": { "step": 1 },
+    "value": [0, 1, 1, 0]
+  },
+  {
+    "t": 100.5,
+    "interpolation": "cosine",
+    "value": [0, 1, 1, 0]
+  },
+  {
+    "t": 101,
+    "interpolation": { "step": 1 },
+    "value": [0, 0, 1, 1]
+  },
+  {
+    "t": 102,
+    "interpolation": "cosine",
+    "value": [0, 0, 1, 1]
+  },
+  {
+    "t": 102.5,
+    "interpolation": { "step": 1 },
+    "value": [-1, 1, 0, 0]
+  }
+]

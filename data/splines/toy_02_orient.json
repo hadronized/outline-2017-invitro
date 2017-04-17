@@ -1,0 +1,48 @@
+[
+  {
+    "t": 44,
+    "interpolation": "cosine",
+    "value": [0, 1, 0, 0]
+  },
+  {
+    "t": 43,
+    "interpolation": "cosine",
+    "value": [0, 1, 0, 1]
+  },
+  {
+    "t": 49,
+    "interpolation": "cosine",
+    "value": [0, 0, 0, 1]
+  },
+  {
+    "t": 53,
+    "interpolation": "cosine",
+    "value": [0, -1, -1, 1]
+  },
+  {
+    "t": 61,
+    "interpolation": "cosine",
+    "value": [-1, 0.4346, 1, 0]
+  },
+  {
+    "t": 67,
+    "interpolation": "cosine",
+    "value": [1, 1, 0, 1]
+  },
+  {
+    "t": 69,
+    "interpolation": "cosine",
+    "value": [0, 1, -1, 0]
+  },
+  {
+    "t": 71,
+    "interpolation": "cosine",
+    "value": [1, 0, 0, 1]
+  },
+  {
+    "t": 78,
+    "interpolation": "cosine",
+    "value": [0, 0, 1, 0]
+  }
+]
+

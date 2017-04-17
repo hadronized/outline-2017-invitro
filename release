@@ -1,0 +1,26 @@
+#!/bin/zsh
+
+# Le script dela mierda to compress and package the whole demo; feel free to add extra files like .nfo
+# and all that kind of la good shit.
+
+rm -rf /tmp/outline17
+rm -f /tmp/outline-invite.zip
+
+mkdir /tmp/outline17
+
+cp -r data /tmp/outline17
+
+cp libglfw.so.3  libogg.so.0  libvorbisfile.so.3  libvorbis.so.0 /tmp/outline17/
+
+cp target/release/outline17 /tmp/outline17/tus_dsr-outline_invite
+chmod +x /tmp/outline17/tus_dsr-outline_invite
+
+cp target/release/outline17.exe /tmp/outline17/tus_dsr-outline_invite.exe
+
+cp outline2017.nfo /tmp/outline17
+
+cp README.md /tmp/outline17
+
+cd /tmp
+zip -9r outline-invite.zip outline17
+cd -

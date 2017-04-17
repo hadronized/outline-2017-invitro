@@ -1,0 +1,17 @@
+[
+  {
+    "t": 39,
+    "interpolation": "cosine",
+    "value": [0, 0.5, -2]
+  },
+  {
+    "t": 42,
+    "interpolation": "cosine",
+    "value": [0, 1.5, 3]
+  },
+  {
+    "t": 45,
+    "interpolation": "cosine",
+    "value": [0, 0, 4.5]
+  }
+]

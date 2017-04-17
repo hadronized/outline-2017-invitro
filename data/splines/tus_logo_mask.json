@@ -1,0 +1,142 @@
+[
+  {
+    "t": 15,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 18,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 23,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 26,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 26,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 61,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 64,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 64.9,
+    "interpolation": "cosine",
+    "value": 10
+  },
+  {
+    "t": 65,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.05,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.1,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.15,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.2,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.25,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.3,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.35,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.4,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.45,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.5,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.55,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.6,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 103.65,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 103.7,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 108,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 112,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 115,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 119,
+    "interpolation": { "step": 1 },
+    "value": 0
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "t": 30,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 31,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 37,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 38,
+    "interpolation": { "step": 1},
+    "value": 0
+  },
+  {
+    "t": 43,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 44,
+    "interpolation": { "step": 1},
+    "value": 1
+  },
+  {
+    "t": 48,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 49,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 50,
+    "interpolation": { "step": 1},
+    "value": 1
+  },
+  {
+    "t": 54,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 55,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 56,
+    "interpolation": { "step": 1 },
+    "value": 1
+  },
+  {
+    "t": 63,
+    "interpolation": "cosine",
+    "value": 1
+  },
+  {
+    "t": 64,
+    "interpolation": { "step": 1 },
+    "value": 0
+  },
+  {
+    "t": 65,
+    "interpolation": "cosine",
+    "value": 0
+  },
+  {
+    "t": 65.1,
+    "interpolation": { "step": 1 },
+    "value": 1
+  }
+]
