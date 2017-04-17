@@ -1,3 +1,16 @@
+//! Outline 2017 Invitation
+//!
+//! Released at Revision 2017, April 14th to 17th 2017 in Saarbrücken, Germany.
+//!
+//! Code: phaazon
+//! GFX: preej, lycan, mxbyte, optic, ploopie
+//! Music: defcon8
+//! Direction: ramonb5, phaazon
+//! Support: havoc
+//!
+//! Disclaimer: this invitro was started less than two weeks before the Revision deadline. The code
+//! is messy. Really, messy. phaazon feels ashamed about it. You’ll find dirty hacks all around the
+//! place. You’ve been warned.
 #![feature(const_fn)]
 
 extern crate spectra;
