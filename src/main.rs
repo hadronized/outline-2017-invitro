@@ -61,7 +61,7 @@ fn demo(mut audio: Audio) {
   // ---------------------------------------------------
   // -- COMMON STUFF -----------------------------------
   let mut cache = ResCache::new("data");
-  let mut dev = Device::bootstrap(WindowDim::FullScreen, TITLE);
+  let mut dev = Device::bootstrap(WindowDim::Fullscreen, TITLE);
   let persp = Perspective::new(WIDTH as f32 / HEIGHT as f32, FRAC_PI_2, 0.1, 100.);
   let mut handler = EscapeHandler;
   let mut compositor = Compositor::new(WIDTH, HEIGHT, &mut cache);
@@ -491,7 +491,7 @@ fn demo(mut audio: Audio) {
 
     let text_mask = RGBA::new(1., 1., 1., text_mask.borrow().clamped_sample(t_));
 
-    twist_node.over((text_node * text_mask.into())).over(Node::FullScreenEffect(&background_effect))
+    twist_node.over((text_node * text_mask.into())).over(Node::FullscreenEffect(&background_effect))
   });
 
   let toys_clip = Clip::new(|t| {
@@ -565,7 +565,7 @@ fn demo(mut audio: Audio) {
     let v = mask.borrow().clamped_sample(t);
     let mask = RGBA::new(v, v, v, v);
 
-    (render_node * mask.into()).over(Node::FullScreenEffect(&background_effect))
+    (render_node * mask.into()).over(Node::FullscreenEffect(&background_effect))
   });
 
   let credit_clip_1 = Clip::new(|t| {
